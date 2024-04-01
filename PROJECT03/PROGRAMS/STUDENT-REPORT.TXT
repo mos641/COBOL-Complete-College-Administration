@@ -1,0 +1,12 @@
+NAME                                      AVERAGE PROGRAM                 TUITION OWED
+----------------------------------------------------------------------------------------------------------------------------------
+JONES, WILLIAM                              90%   COMPUTER PRGRAMMER        $765.89
+SMITH, FRED                                 82%   COMPUTER TECHNICIAN     $2,000.00
+CROMWELL, OLIVER                            70%   COMPUTER SIENCE           $920.00
+HEHEINLEN, HERBERT                          90%   COMPUTER PRGRAMMER      $1,500.00
+ASSIMOV, ISAAC                              47%   COMPUTER PRGRAMMER         $50.00
+JONES, WILLIAM                              90%   COMPUTER PRGRAMMER      $1,000.00
+SMITH, Bill                                 82%   COMPUTER TECHNICIAN     $2,000.00
+CROMWELL, OLIVIA                            70%   COMPUTER SIENCE           $920.00
+HEHEINLEN, HERBERT                          90%   COMPUTER PRGRAMMER      $1,500.00
+ASSIMOV, ISAAC                              47%   COMPUTER PRGRAMMER         $50.00

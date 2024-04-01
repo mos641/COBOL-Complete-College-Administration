@@ -1,0 +1,5 @@
+       FD PROGRAM-FILE-IN.
+       01 PROGRAM-RECORD-IN.
+           05 PROGRAM-CODE PIC X(5).
+           05 DISCARD-X PIC X.
+           05 PROGRAM-NAME PIC X(20).
