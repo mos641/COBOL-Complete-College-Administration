@@ -1,5 +1,4 @@
-# CST8283 Complete College  Administration
-Reads existing student records from external files  
-Allows user input to make changes through "screen" sections  
-Updates and saves information to external files and prints a report  
- 
+# Cobol - Complete College Administration
+COBOL program for a tuition payment system.  
+Utilizes external files as input and creates an indexed file for more efficient operations.  
+Used the screen section for user input to search for students, submit payments, updates student data and print a formatted report of students.  
